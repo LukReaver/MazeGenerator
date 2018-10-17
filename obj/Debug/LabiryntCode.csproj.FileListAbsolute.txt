@@ -1,0 +1,10 @@
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\bin\Debug\LabiryntCode.exe.config
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\bin\Debug\LabiryntCode.exe
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\bin\Debug\LabiryntCode.pdb
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.csprojResolveAssemblyReference.cache
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.FormCode.resources
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.Properties.Resources.resources
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.csproj.GenerateResource.Cache
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.csproj.CoreCompileInputs.cache
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.exe
+C:\Users\lg7\source\repos\Labirynt\LabiryntCode\obj\Debug\LabiryntCode.pdb
